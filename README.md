@@ -25,4 +25,22 @@ The **FRP-S tool** can be used to bypass Google account verification (FRP) after
   3. After connecting the phone, run the tool’s launch command.  
 
 **Launch commands:**  
-*(Commands would be listed here)*  
+
+```
+git clone https://github.com/Woode-Ahmed/FRP-S
+```
+
+
+```
+cd FRP-S
+```
+
+
+```
+pip install -r requirements.txt
+```
+
+
+```
+python main.py
+```
